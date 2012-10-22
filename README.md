@@ -9,4 +9,4 @@ Arg2 - Number of parsing required
 
 Example : python crawler.py http://python.org 20
 
-All the links crawled will be written into a file 'URLfile.txt'.
+All the crawled links will be written into a file 'URLfile.txt'.
